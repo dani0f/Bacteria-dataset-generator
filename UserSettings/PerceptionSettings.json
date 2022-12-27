@@ -1,0 +1,6 @@
+{
+  "UnityEngine.Perception.GroundTruth.Consumers.PerceptionEndpoint.output_path": {
+    "type": "String",
+    "value": "E:/Proyectos/Generador de imagenes bacterianas/Datasets/Results synthetic"
+  }
+}
